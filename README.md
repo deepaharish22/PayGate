@@ -14,6 +14,6 @@ TECH STACK:
 
 	FRONT-END: HTML5, CSS3 & Bootstrap4
 
-PAYMENT GATEWAY:Razorpay
+PAYMENT GATEWAY:RazorPay
 
-API:Razorpay API(Test Mode)
+API:RazorPay API(Test Mode)
